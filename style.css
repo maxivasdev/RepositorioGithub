@@ -29,6 +29,10 @@ body {
     text-decoration: none;
 }
 
+li a:hover{
+    color: red;
+}
+
 /* CONTAINER */
 
 .container {
